@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Vídeos - Thunderbirds (1965)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        .video {
+            margin-bottom: 30px;
+        }
+        iframe {
+            width: 100%;
+            height: 315px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Catálogo de Vídeos - Thunderbirds (1965)</h1>
+    <p>Thunderbirds é uma série de televisão britânica de marionetes que foi criada por Gerry Anderson e lançou em 1965. A série se passa em um futuro próximo e segue as aventuras da família Tracy, que opera uma organização de resgate internacional chamada International Rescue.</p>
+
+    <div class="video">
+        <h2>Thunderbirds - Vídeo 1</h2>
+        <iframe src="https://www.youtube.com/embed/BNhk_-v0SMs" frameborder="0" allowfullscreen></iframe>
+        <p><a href="https://youtu.be/BNhk_-v0SMs?si=Ng733lkvT7JW-1lC" target="_blank">Assista no YouTube</a></p>
+    </div>
+
+    <div class="video">
+        <h2>Thunderbirds - Vídeo 2</h2>
+        <iframe src="https://www.youtube.com/embed/BNhk_-v0SMs" frameborder="0" allowfullscreen></iframe>
+        <p><a href="https://youtu.be/BNhk_-v0SMs?si=RuSKItkB3bjcQy9r" target="_blank">Assista no YouTube</a></p>
+    </div>
+
+</body>
+</html>
